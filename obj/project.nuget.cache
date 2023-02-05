@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AzTTDID70vKXKDBxNgamAtdKcsR54LXzE84eokXlMVAZsFrY+pwPg0ahKnUXcvyy9A4WrxvOkbuUqKF4Z+rHcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hafiz\\Source\\Repos\\OurTeamViewer3212\\OurTeamViewer\\OurTeamViewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hafiz\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Hafiz\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
